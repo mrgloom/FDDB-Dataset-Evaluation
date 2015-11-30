@@ -24,6 +24,9 @@ https://github.com/xieguotian/SurfFaceDetection
 https://github.com/davisking/dlib/blob/master/examples/face_detection_ex.cpp
 
 http://mplab.ucsd.edu/wordpress/?page_id=398
+
+NPD
+https://github.com/biotrump/NPD
 ~~~
 
 
