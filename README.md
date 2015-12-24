@@ -25,6 +25,8 @@ https://github.com/davisking/dlib/blob/master/examples/face_detection_ex.cpp
 
 http://mplab.ucsd.edu/wordpress/?page_id=398
 
+http://www.cbsr.ia.ac.cn/faceevaluation/results.html
+
 NPD
 https://github.com/biotrump/NPD
 ~~~
