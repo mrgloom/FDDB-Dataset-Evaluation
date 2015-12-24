@@ -26,6 +26,9 @@ https://github.com/davisking/dlib/blob/master/examples/face_detection_ex.cpp
 http://mplab.ucsd.edu/wordpress/?page_id=398
 
 http://www.cbsr.ia.ac.cn/faceevaluation/results.html
+http://sachinfarfade.tumblr.com/deep-dense-face-detector
+http://markusmathias.bitbucket.org/2014_eccv_face_detection/
+http://blog.dlib.net/2014/02/dlib-186-released-make-your-own-object.html
 
 NPD
 https://github.com/biotrump/NPD
