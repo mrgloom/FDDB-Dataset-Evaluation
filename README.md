@@ -18,6 +18,7 @@ https://github.com/mrgloom/picasa_ini_reader
 to look at:
 https://github.com/ITLab-Vision/FDDB
 https://github.com/npinto/fddb-evaluation
+https://github.com/Bkmz21/FD-Evaluation
 
 https://github.com/xieguotian/SurfFaceDetection
 
