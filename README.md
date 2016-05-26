@@ -36,6 +36,7 @@ http://blog.dlib.net/2014/02/dlib-186-released-make-your-own-object.html
 
 NPD
 https://github.com/biotrump/NPD
+https://github.com/wincle/NPD
 
 Evaluation tool
 https://github.com/idiap/facereclib
