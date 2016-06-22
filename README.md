@@ -33,6 +33,9 @@ http://www.cbsr.ia.ac.cn/faceevaluation/results.html
 http://sachinfarfade.tumblr.com/deep-dense-face-detector
 http://markusmathias.bitbucket.org/2014_eccv_face_detection/
 http://blog.dlib.net/2014/02/dlib-186-released-make-your-own-object.html
+https://github.com/guoyilin/FaceDetection_CNN
+https://github.com/LouieYang/caf_face_detection
+https://github.com/rricard/caffeface
 
 NPD
 https://github.com/biotrump/NPD
