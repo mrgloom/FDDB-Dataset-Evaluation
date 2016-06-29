@@ -40,6 +40,7 @@ https://github.com/rricard/caffeface
 NPD
 https://github.com/biotrump/NPD
 https://github.com/wincle/NPD
+https://github.com/CitrusRokid/OpenNPD
 
 Evaluation tool
 https://github.com/idiap/facereclib
