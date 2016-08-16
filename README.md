@@ -36,6 +36,7 @@ http://blog.dlib.net/2014/02/dlib-186-released-make-your-own-object.html
 https://github.com/guoyilin/FaceDetection_CNN
 https://github.com/LouieYang/caf_face_detection
 https://github.com/rricard/caffeface
+https://github.com/aosokin/cnn_head_detection
 
 NPD
 https://github.com/biotrump/NPD
