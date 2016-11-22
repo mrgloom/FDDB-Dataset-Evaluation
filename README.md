@@ -18,6 +18,9 @@ https://github.com/mrgloom/picasa_ini_reader
 Dlib
 http://blog.dlib.net/2014/02/dlib-186-released-make-your-own-object.html
 
+Detectors:
+https://github.com/ShiqiYu/libfacedetection
+
 to look at:
 https://github.com/ITLab-Vision/FDDB
 https://github.com/npinto/fddb-evaluation
