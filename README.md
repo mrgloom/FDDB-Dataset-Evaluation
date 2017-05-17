@@ -33,6 +33,8 @@ https://github.com/davisking/dlib/blob/master/examples/face_detection_ex.cpp
 http://mplab.ucsd.edu/wordpress/?page_id=398
 
 CNN
+http://blog.dlib.net/2016/10/easily-create-high-quality-object.html
+
 https://github.com/layumi/2015_Face_Detection
 
 http://www.cbsr.ia.ac.cn/faceevaluation/results.html
