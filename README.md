@@ -22,6 +22,7 @@ Detectors:
 https://github.com/ShiqiYu/libfacedetection
 
 to look at:
+https://github.com/peiyunh/tiny  - some other dataset bechmark also
 https://github.com/ITLab-Vision/FDDB
 https://github.com/npinto/fddb-evaluation
 https://github.com/Bkmz21/FD-Evaluation
